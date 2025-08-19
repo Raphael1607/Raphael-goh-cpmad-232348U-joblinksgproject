@@ -1,0 +1,50 @@
+{
+  "Kfq1xh7We9E3scVO7PwL": {
+    "role": "backedn",
+    "companyName": "Google",
+    "jobTitle": "Internship",
+    "description": "aaaaaaaaa",
+    "userId": "rhaYmvf9CISvAz2rmqc8i4ZClv93",
+    "projectDuration": "aaaaaaa",
+    "companyId": "IzgDwo3rgfmqWCj3F5CA",
+    "imageUrls": [
+      "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/company_portfolios%2FIzgDwo3rgfmqWCj3F5CA%2FKfq1xh7We9E3scVO7PwL%2F1755582096276_0.jpg?alt=media&token=ae64a9d5-3534-4c10-b6b9-f353ce1c19e3"
+    ],
+    "location": "70 Pasir Panjang Rd, Singapore 117371",
+    "projectTitle": "night project",
+    "achievements": [
+      "everhting",
+      "eveyrhitng"
+    ],
+    "responsibilities": [
+      "eveyrhting",
+      "everyhting"
+    ],
+    "mainSkill": "flutter, cloud, python"
+  },
+  "V1SCPKTh6NGTH3yJmfhw": {
+    "role": "backend developer",
+    "mainSkill": "fluuter, cloud",
+    "companyName": " Nvidia",
+    "jobTitle": "Internship",
+    "description": "anythng",
+    "userId": "rhaYmvf9CISvAz2rmqc8i4ZClv93",
+    "projectDuration": "3 week spirnt",
+    "companyId": "eGtfC0pDYt8rEIojVvsz",
+    "imageUrls": [
+      "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/company_portfolios%2FeGtfC0pDYt8rEIojVvsz%2FV1SCPKTh6NGTH3yJmfhw%2F1755581895373_0.jpg?alt=media&token=c1bd7f64-114f-438d-93d0-fadb1ddba9ec",
+      "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/company_portfolios%2FeGtfC0pDYt8rEIojVvsz%2FV1SCPKTh6NGTH3yJmfhw%2F1755581899961_1.jpg?alt=media&token=001b3554-c3c9-4fca-8e68-63135ea4d7d0",
+      "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/company_portfolios%2FeGtfC0pDYt8rEIojVvsz%2FV1SCPKTh6NGTH3yJmfhw%2F1755581904203_2.jpg?alt=media&token=d3ac261e-b50e-4de6-afba-8b70b37be2e7"
+    ],
+    "location": "10 Bayfront Ave, Singapore 018956",
+    "projectTitle": "BIg project@@",
+    "achievements": [
+      "made backend mroe efficient by 60%",
+      "made cloud 800% better"
+    ],
+    "responsibilities": [
+      "do all backend",
+      "do all cloud"
+    ]
+  }
+}

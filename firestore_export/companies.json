@@ -1,0 +1,58 @@
+{
+  "IzgDwo3rgfmqWCj3F5CA": {
+    "companyName": "Google",
+    "industry": "Cloud",
+    "price": "$1500/month",
+    "skill": "Ai and Machine Learning",
+    "offerDetails": "Hiring interns for Cloud AI ",
+    "contactEmail": "internships@google.com",
+    "duration": "12 weeks\n",
+    "jobDescription": "Work on real-world Cloud AI projects with Google's engineering team. You'll build scalable solutions and AI tools.",
+    "jobType": "Internship",
+    "location": "70 Pasir Panjang Rd, Singapore 117371",
+    "startDate": "September 2025",
+    "companyImage": "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/companies%20image%2FGoogle.webp?alt=media&token=60d83ff1-f976-4ea7-9ce2-39ff7ee285f2"
+  },
+  "PEgXXHaj5nyWxhbM9PtV": {
+    "companyName": "Goldman Sachs",
+    "offerDetails": "Investment Banking",
+    "skill": "Financial Modeling",
+    "price": "SGD 4500 per month",
+    "industry": "finance",
+    "companyImage": "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/companies%20image%2FGoldman-Sachs.jpg?alt=media&token=9c300810-af30-43d0-abe1-b14de38669d2",
+    "contactEmail": "careers@goldmansachs.com",
+    "duration": "6 months",
+    "jobDescription": "Join our Investment Banking internship program to gain exposure to high-profile M&A deals and financial modeling.",
+    "location": "168 Market Street, Singapore 048942",
+    "startDate": "August 2025",
+    "jobType": "Part-time"
+  },
+  "V40NnjvbvySj41plCrbR": {
+    "offerDetails": "Summer Internship 2025",
+    "price": "$1000 a month",
+    "skill": "C#, Flutter, Dart and python",
+    "companyName": "Swiftx",
+    "companyImage": "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/companies%20image%2Fswiftx.png?alt=media&token=130d445a-1eb8-48d2-89e9-4bf95458d5d2",
+    "industry": "Software",
+    "contactEmail": "hr@swiftx.com",
+    "duration": "2 months\n",
+    "jobDescription": "Join our software engineering team to work on real-time financial applications using Flutter and modern backend tools.",
+    "jobType": "Internship",
+    "location": "456 Developer Lane, Singapore 123456",
+    "startDate": "July 2025"
+  },
+  "eGtfC0pDYt8rEIojVvsz": {
+    "companyName": " Nvidia",
+    "offerDetails": "Robotics Engineer Intern",
+    "price": "$1500 per month",
+    "skill": "Computer Vision",
+    "industry": "Robotics",
+    "companyImage": "https://firebasestorage.googleapis.com/v0/b/fb-project-2025-22b47.firebasestorage.app/o/companies%20image%2FNVidia.png?alt=media&token=2e952eee-6806-4c80-814e-d19126a4db78",
+    "jobType": "Internship",
+    "startDate": "October 2025",
+    "duration": "3 months",
+    "contactEmail": "careers@nvidia.com",
+    "jobDescription": "Join our robotics division to help develop advanced computer vision systems for autonomous machines. You will work closely with the R&D team on real-world prototypes.",
+    "location": "10 Bayfront Ave, Singapore 018956"
+  }
+}
